@@ -1,0 +1,7 @@
+C:\UUU\Mod04\Mod04_1\Starter\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\UUU\Mod04\Mod04_1\Starter\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\UUU\Mod04\Mod04_1\Starter\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\UUU\Mod04\Mod04_1\Starter\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\UUU\Mod04\Mod04_1\Starter\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\UUU\Mod04\Mod04_1\Starter\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\UUU\Mod04\Mod04_1\Starter\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

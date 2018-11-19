@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchHDFreeSpace", "WatchHDFreeSpace\WatchHDFreeSpace.csproj", "{CFEE1D94-03E9-443E-80F6-09140244F1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{86C6F6AB-7EB6-4441-B67D-1BEBA13EF21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFEE1D94-03E9-443E-80F6-09140244F1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEE1D94-03E9-443E-80F6-09140244F1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEE1D94-03E9-443E-80F6-09140244F1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEE1D94-03E9-443E-80F6-09140244F1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C6F6AB-7EB6-4441-B67D-1BEBA13EF21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C6F6AB-7EB6-4441-B67D-1BEBA13EF21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C6F6AB-7EB6-4441-B67D-1BEBA13EF21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C6F6AB-7EB6-4441-B67D-1BEBA13EF21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC0CFDA-2B4C-4F4B-AB1A-B451DB6692C8}
+	EndGlobalSection
+EndGlobal
