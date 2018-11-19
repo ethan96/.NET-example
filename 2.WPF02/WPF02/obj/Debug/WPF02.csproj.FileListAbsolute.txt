@@ -1,0 +1,15 @@
+C:\UUU\Mod01\WPF02\WPF02\bin\Debug\WPF02.exe.config
+C:\UUU\Mod01\WPF02\WPF02\bin\Debug\WPF02.exe
+C:\UUU\Mod01\WPF02\WPF02\bin\Debug\WPF02.pdb
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02.csprojResolveAssemblyReference.cache
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\MainWindow.g.cs
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\App.g.cs
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02_MarkupCompile.cache
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02_MarkupCompile.lref
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\MainWindow.baml
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02.g.resources
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02.Properties.Resources.resources
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02.csproj.GenerateResource.Cache
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02.csproj.CoreCompileInputs.cache
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02.exe
+C:\UUU\Mod01\WPF02\WPF02\obj\Debug\WPF02.pdb

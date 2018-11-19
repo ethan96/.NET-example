@@ -1,0 +1,7 @@
+C:\UUU\Mod01\Mod1\Mod1\bin\Debug\Mod1.exe.config
+C:\UUU\Mod01\Mod1\Mod1\bin\Debug\Mod1.exe
+C:\UUU\Mod01\Mod1\Mod1\bin\Debug\Mod1.pdb
+C:\UUU\Mod01\Mod1\Mod1\obj\Debug\Mod1.csprojResolveAssemblyReference.cache
+C:\UUU\Mod01\Mod1\Mod1\obj\Debug\Mod1.csproj.CoreCompileInputs.cache
+C:\UUU\Mod01\Mod1\Mod1\obj\Debug\Mod1.exe
+C:\UUU\Mod01\Mod1\Mod1\obj\Debug\Mod1.pdb
